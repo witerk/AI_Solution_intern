@@ -1,3 +1,3 @@
-# AI_solution_intern
+# Intern (AI Solution)
 2달(2024/01/02~2024/02/29) 간 근무한 인턴 기록 </br>
 AI솔루션 개발 기업
